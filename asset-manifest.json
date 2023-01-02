@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rgb-2-hex/static/css/main.cb9d524c.css",
+    "main.js": "/rgb-2-hex/static/js/main.9d8c6818.js",
+    "static/js/787.ab50a5cb.chunk.js": "/rgb-2-hex/static/js/787.ab50a5cb.chunk.js",
+    "index.html": "/rgb-2-hex/index.html",
+    "main.cb9d524c.css.map": "/rgb-2-hex/static/css/main.cb9d524c.css.map",
+    "main.9d8c6818.js.map": "/rgb-2-hex/static/js/main.9d8c6818.js.map",
+    "787.ab50a5cb.chunk.js.map": "/rgb-2-hex/static/js/787.ab50a5cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb9d524c.css",
+    "static/js/main.9d8c6818.js"
+  ]
+}
